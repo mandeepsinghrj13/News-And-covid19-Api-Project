@@ -1,0 +1,25 @@
+#articlesContent img {
+  height: 200px;
+  width: 275px;
+  border-radius: 2%;
+}
+#covidBlock section {
+  display: flex;
+}
+#covidBlock section div {
+  padding: 7px;
+  box-shadow: 1px 1px 5px 1px #eee;
+  margin: 0px 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+#covidBlock section div h4 {
+  margin: 4px 10px 4px 0px;
+  padding: 7px;
+}
+.navbar-brand img {
+  height: 70px;
+  width: 170px;
+}
